@@ -1,0 +1,13 @@
+train: C:\Users\LAP-STORE\Desktop\Amit\Graduate-progecr_2\gun.v1i.yolov5pytorch\train\images
+val: C:\Users\LAP-STORE\Desktop\Amit\Graduate-progecr_2\gun.v1i.yolov5pytorch\valid\images
+test: C:\Users\LAP-STORE\Desktop\Amit\Graduate-progecr_2\gun.v1i.yolov5pytorch\test\images
+
+nc: 1
+names: ['gun']
+
+roboflow:
+  workspace: persondetection-dkcw7
+  project: gun-hyx8j-rriru
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/persondetection-dkcw7/gun-hyx8j-rriru/dataset/1
