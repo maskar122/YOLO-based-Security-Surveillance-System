@@ -1,7 +1,3 @@
-ممتاز، هعمل لك نفس التنسيق الاحترافي بالضبط ولكن لمشروع **YOLO-based Security & Surveillance System**، بنفس الأسلوب والأيقونات والجداول والهيكل.
-
----
-
 # 🛡️ YOLO-based Security & Surveillance System
 
 <div align="center">
